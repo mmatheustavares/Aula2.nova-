@@ -1,1 +1,3 @@
-# Aula2.nova-
+Gabriel Macht
+Patrick J. Adams
+Rick Hoffman	
